@@ -2,7 +2,7 @@
 <h3 align="center">A SOC Analyst TIER 1 from Egypt</h3>
 <img align='right' width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-[![](https://visitcount.itsvg.in/api?id=ahmedali777-coder&icon=0&color=0)](https://visitcount.itsvg.in)
+(https://visitcount.itsvg.in/api?id=ahmedali777-coder&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 - 💬 Ask me about **Cyber Security Crimes and How to Investigate Them**
