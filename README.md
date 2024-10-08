@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ali Elghamaz</h1>
 <h3 align="center">A SOC Analyst TIER 1 from Egypt</h3>
 <img align='right' width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedali777-coder&label=Profile%20views&color=0e75b6&style=Plastic" alt="ahmedali777-coder" /> </p>
 
 
 
