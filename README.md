@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ali Elghamaz</h1>
 <h3 align="center">A SOC Analyst TIER 1 from Egypt</h3>
-<img align='left' width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align='right' width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedali777-coder" alt="ahmedali777-coder" /></a> </p>
