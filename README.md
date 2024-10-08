@@ -3,7 +3,7 @@
 <img align='right' width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedali777-coder" alt="ahmedali777-coder" /></a> </p>
+
 
 - 💬 Ask me about **Cyber Security Crimes and How to Investigate Them**
 
